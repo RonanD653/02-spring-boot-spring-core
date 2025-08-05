@@ -1,4 +1,4 @@
-package com.udemyspringboot.__spring_boot_spring_core.common;
+package com.udemyspringboot.util;
 
 import org.springframework.stereotype.Component;
 
